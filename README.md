@@ -55,14 +55,14 @@ QueryGenie is a sophisticated tool that allows users to interact with a SQL data
     - Provide LinkedIn URLs of all companies.
 
 ### Project Structure 
-├── Final_Gemini_Query_Model.ipynb / Final_Gemini_Query_Model.py
-├── requirements.txt
-├── README.md
-├── .env
+├── Final_Gemini_Query_Model.ipynb / Final_Gemini_Query_Model.py <br />
+├── requirements.txt <br />
+├── README.md <br />
+├── .env <br />
 
 ### Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## Acknowledgements
-[Google GenerativeAi](https://ai.google.dev/api/python/google/generativeai)
-[MySQL Connector](https://dev.mysql.com/doc/connector-python/en/)
+[Google GenerativeAi](https://ai.google.dev/api/python/google/generativeai) <br />
+[MySQL Connector](https://dev.mysql.com/doc/connector-python/en/) <br />

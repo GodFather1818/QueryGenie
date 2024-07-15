@@ -1,0 +1,4 @@
+python-dotenv
+spacy
+mysql-connector-python
+google-generativeai
